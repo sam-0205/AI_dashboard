@@ -3,7 +3,7 @@ import { Typewriter } from 'react-simple-typewriter';
 import { useState, useEffect } from 'react';
 
 const Header = () => {
-    const username = "Alex";
+    const username = "Sameer";
     const [showLine1, setShowLine1] = useState(false);
     const [showLine2, setShowLine2] = useState(false);
     // const [showLine3, setShowLine3] = useState(false);
